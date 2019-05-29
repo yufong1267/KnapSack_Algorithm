@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\HW5_KnapSack\HW5_KnapSack\bin\Debug\HW5_KnapSack.exe.config
+c:\users\user\documents\visual studio 2015\Projects\HW5_KnapSack\HW5_KnapSack\bin\Debug\HW5_KnapSack.exe
+c:\users\user\documents\visual studio 2015\Projects\HW5_KnapSack\HW5_KnapSack\bin\Debug\HW5_KnapSack.pdb
+c:\users\user\documents\visual studio 2015\Projects\HW5_KnapSack\HW5_KnapSack\obj\Debug\HW5_KnapSack.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HW5_KnapSack\HW5_KnapSack\obj\Debug\HW5_KnapSack.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\HW5_KnapSack\HW5_KnapSack\obj\Debug\HW5_KnapSack.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\HW5_KnapSack\HW5_KnapSack\obj\Debug\HW5_KnapSack.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\HW5_KnapSack\HW5_KnapSack\obj\Debug\HW5_KnapSack.exe
+c:\users\user\documents\visual studio 2015\Projects\HW5_KnapSack\HW5_KnapSack\obj\Debug\HW5_KnapSack.pdb
